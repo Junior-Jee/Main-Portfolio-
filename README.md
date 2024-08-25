@@ -1,6 +1,3 @@
-Here’s a template for your README file:
-
----
 
 # George Nunoo Portfolio
 
